@@ -2,52 +2,107 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DRUM KIT</title>
-    <link rel="stylesheet" href="./src/styles/index.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DRUM KIT</title>
+  <link rel="stylesheet" href="./src/styles/index.css">
 </head>
 
 <body>
-    
-  <div class="keys">
+
+  <div class="panel">
+    <div class="teclas_blancas">
+      <!-- teclas superiores -->
+      <div data-key="81" class="tecla_blanca key"></div>
+      <div data-key="87" class="tecla_blanca key"></div>
+      <div data-key="69" class="tecla_blanca key"></div>
+      <div data-key="82" class="tecla_blanca key"></div>
+      <!-- teclas medio -->
+      <div data-key="65" class="tecla_blanca key"></div>
+      <div data-key="83" class="tecla_blanca key"></div>
+      <div data-key="68" class="tecla_blanca key"></div>
+      <div data-key="70" class="tecla_blanca key"></div>
+      <div data-key="71" class="tecla_blanca key"></div>
+      <div data-key="72" class="tecla_blanca key"></div>
+      <div data-key="74" class="tecla_blanca key"></div>
+      <div data-key="75" class="tecla_blanca key"></div>
+      <div data-key="76" class="tecla_blanca key"></div>
+      <!-- teclas inferiores -->
+      <div data-key="90" class="tecla_blanca key"></div>
+      <div data-key="88" class="tecla_blanca key"></div>
+      <div data-key="67" class="tecla_blanca key"></div>
+      <div data-key="86" class="tecla_blanca key"></div>
+      <div data-key="66" class="tecla_blanca key"></div>
+      <div data-key="78" class="tecla_blanca key"></div>
+      <div data-key="77" class="tecla_blanca key"></div>
+      <div data-key="44" class="tecla_blanca key"></div>
+    </div>
+
+    <div class="teclas_negras">
+      <div class="space"></div>
+      <div data-key="49" class="tecla_negra key"></div>
+      <div data-key="50" class="tecla_negra key"></div>
+      <div class="space"></div>
+      <div data-key="51" class="tecla_negra key"></div>
+      <div data-key="52" class="tecla_negra key"></div>
+      <div data-key="53" class="tecla_negra key"></div>
+      <div class="space"></div>
+      <div data-key="54" class="tecla_negra key"></div>
+      <div data-key="55" class="tecla_negra key"></div>
+      <div class="space"></div>
+      <div data-key="56" class="tecla_negra key"></div>
+      <div data-key="57" class="tecla_negra key"></div>
+      <div data-key="48" class="tecla_negra key"></div>
+      <div class="space"></div>
+      <div data-key="39" class="tecla_negra key"></div>
+      <div data-key="173" class="tecla_negra key"></div>
+      <div class="space"></div>
+      <div class="tecla_negra key"></div>
+      <div class="tecla_negra key"></div>
+      <div class="tecla_negra key"></div>
+    </div>
+  </div>
+
+
+
+  <!-- <div class="keys">
     <div data-key="65" class="key">
-      <kbd>A</kbd>
+      <p>A</p>
       <span class="sound">clap</span>
     </div>
     <div data-key="83" class="key">
-      <kbd>S</kbd>
+      <p>S</p>
       <span class="sound">hihat</span>
     </div>
     <div data-key="68" class="key">
-      <kbd>D</kbd>
+      <p>D</p>
       <span class="sound">kick</span>
     </div>
     <div data-key="70" class="key">
-      <kbd>F</kbd>
+      <p>F</p>
       <span class="sound">openhat</span>
     </div>
     <div data-key="71" class="key">
-      <kbd>G</kbd>
+      <p>G</p>
       <span class="sound">boom</span>
     </div>
     <div data-key="72" class="key">
-      <kbd>H</kbd>
+      <p>H</p>
       <span class="sound">ride</span>
     </div>
     <div data-key="74" class="key">
-      <kbd>J</kbd>
+      <p>J</p>
       <span class="sound">snare</span>
     </div>
     <div data-key="75" class="key">
-      <kbd>K</kbd>
+      <p>K</p>
       <span class="sound">tom</span>
     </div>
     <div data-key="76" class="key">
-      <kbd>L</kbd>
+      <p>L</p>
       <span class="sound">tink</span>
     </div>
-  </div>
+  </div> -->
 
   <audio data-key="83" src="src/sounds/hihat.wav"></audio>
   <audio data-key="68" src="src/sounds/kick.wav"></audio>
@@ -62,4 +117,4 @@
   <script src="js/index.js"></script>
 </body>
 
-</html> 
+</html>
