@@ -2,6 +2,9 @@ body {
   font-size: 10px;
   background-image: url('../images/background.jpg');
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   margin: 0;
   padding: 0;
   font-family: sans-serif;
@@ -48,6 +51,7 @@ p {
   justify-content: center;
   border-radius: 2%;
   margin-bottom: 100px;
+  margin-left: -5rem;
 }
 
 .teclas_blancas{
@@ -75,6 +79,9 @@ p {
   background-size: cover;
   margin-left: 11px;
   margin-top: -2px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
 }
 
 .tecla_blanca {
@@ -83,4 +90,20 @@ p {
   height: 157px;
   background-image: url("../images/Tecla_Blanca.png");
   background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.nota_blanca{
+  margin-bottom: 10px;
+  font-weight: 900;
+  font-size: 13px;
+  color: blue;
+}
+.nota_negra{
+  margin-bottom: 17px;
+  font-weight: 900;
+  font-size: 10px;
+  color: bisque;
 }

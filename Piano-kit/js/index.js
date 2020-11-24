@@ -6,6 +6,7 @@ function playKey(sound) {
     audio.currentTime = 0;
     audio.play();
     key.classList.add('playing');
+    // console.log(sound)
 
 }
 
