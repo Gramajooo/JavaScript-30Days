@@ -1,0 +1,42 @@
+:root {
+    --base: #ffc600;
+    --spacing: 10px;
+    --blur: 10px;
+  }
+
+  img {
+    margin-top: 50px;
+    margin-left: 450px;
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
+  }
+
+  .hl {
+    color: var(--base);
+  }
+
+  body {
+    text-align: center;
+    background-image: url("https://source.unsplash.com/random");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .controls {
+    top: 50px;
+    left: 50px;
+    position: fixed;
+
+  }
+
+  input {
+    width: 200px;
+  }
