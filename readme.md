@@ -11,3 +11,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Simon Say / Among Us - https://gramajooo.github.io/SimonSay/
 * Flex panels - https://gramajooo.github.io/JavaScript-30Days/Flex-panels/index.html
 * Searcher - https://gramajooo.github.io/JavaScript-30Days/Api-SearchCity/index.html
+* Draw Something / Canvas - https://gramajooo.github.io/JavaScript-30Days/Canvas/index.html
