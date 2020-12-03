@@ -12,3 +12,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Flex panels - https://gramajooo.github.io/JavaScript-30Days/Flex-panels/index.html
 * Searcher - https://gramajooo.github.io/JavaScript-30Days/Api-SearchCity/index.html
 * Draw Something / Canvas - https://gramajooo.github.io/JavaScript-30Days/Canvas/index.html
+* Check List - https://gramajooo.github.io/JavaScript-30Days/Check-List/index.html
