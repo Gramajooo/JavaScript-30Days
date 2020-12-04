@@ -1,0 +1,39 @@
+body{
+    background-image: url('https://images.unsplash.com/photo-1462331940025-496dfbfc7564?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=527&q=80');
+    background-position: center;
+    background-size: cover;
+}
+
+#cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 30px;
+    padding-top: 30px;
+  }
+
+  .card-img-overlay{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+  }
+
+  .card-title{
+      background-color: blueviolet !important;
+      font-weight: 900;
+      font-size: 17px !important;
+  }
+  p{
+      margin: 0 !important;
+      color: black;
+      font-weight: 500;
+  }
+.badge{
+    margin: 0 !important;
+}
+
+h1{
+    padding-top: 30px;
+    font-size: 40px !important;
+    color: white;
+}
