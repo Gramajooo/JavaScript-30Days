@@ -13,4 +13,5 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Searcher - https://gramajooo.github.io/JavaScript-30Days/Api-SearchCity/index.html
 * Draw Something / Canvas - https://gramajooo.github.io/JavaScript-30Days/Canvas/index.html
 * Check List - https://gramajooo.github.io/JavaScript-30Days/Check-List/index.html
-* Check List - https://gramajooo.github.io/JavaScript-30Days/VideoPlayer/index.html
+* Video Player - https://gramajooo.github.io/JavaScript-30Days/VideoPlayer/index.html
+* Api Rick And Morty (Bootstrap) - https://gramajooo.github.io/JavaScript-30Days/Api-RickAndMorty/index.html
