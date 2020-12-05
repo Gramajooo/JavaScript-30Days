@@ -15,3 +15,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Check List - https://gramajooo.github.io/JavaScript-30Days/Check-List/index.html
 * Video Player - https://gramajooo.github.io/JavaScript-30Days/VideoPlayer/index.html
 * Api Rick And Morty (Bootstrap) - https://gramajooo.github.io/JavaScript-30Days/Api-RickAndMorty/src/index.html
+* Slides images in on Scroll - https://gramajooo.github.io/JavaScript-30Days/Scrolls/index.html
