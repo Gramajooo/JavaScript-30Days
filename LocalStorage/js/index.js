@@ -1,4 +1,5 @@
 const addItems = document.querySelector(".add-items");
+const clearStorage = document.querySelector(".clean");
 const itemsList = document.querySelector(".tasks");
 const items = JSON.parse(localStorage.getItem("items")) || [];
 
@@ -32,7 +33,7 @@ function populateList(tasks = [], tasksList) {
 }
 
 function toggleDone(e) {
-  if (!e.target.matches("input")) return; // skip this unless it's an input
+  if (!e.target.matches("input")) return;
   const el = e.target;
   const index = el.dataset.index;
   items[index].done = !items[index].done;
@@ -40,8 +41,8 @@ function toggleDone(e) {
   populateList(items, itemsList);
 }
 
-addItems.addEventListener("submit", addItem, false);
-
+addItems.addEventListener("submit", addItem);
 itemsList.addEventListener("click", toggleDone);
+clearStorage.addEventListener("click", this.localStorage.clear());
 
 populateList(items, itemsList);

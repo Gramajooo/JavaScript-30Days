@@ -8,75 +8,79 @@ html {
     align-items: center;
     text-align: center;
     font-family: Futura, "Trebuchet MS", Arial, sans-serif;
-  }
-  
-  *,
-  *:before,
-  *:after {
+}
+
+*,
+*:before,
+*:after {
     box-sizing: inherit;
-  }
-  
-  svg {
+}
+
+svg {
     fill: white;
     background: rgba(0, 0, 0, 0.1);
     padding: 20px;
     border-radius: 50%;
     width: 200px;
     margin-bottom: 50px;
-  }
-  
-  .wrapper {
+}
+
+.wrapper {
     padding: 20px;
     max-width: 350px;
     background: rgba(255, 255, 255, 0.95);
     box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  h2 {
+}
+
+h2 {
     text-align: center;
     margin: 0;
     font-weight: 200;
-  }
-  
-  .tasks {
+}
+
+.tasks {
     margin: 0;
     padding: 0;
     text-align: left;
     list-style: none;
-  }
-  
-  .tasks li {
+}
+
+.tasks li {
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
     padding: 10px 0;
     font-weight: 100;
     display: flex;
-  }
-  
-  .tasks label {
+}
+
+.tasks label {
     flex: 1;
     cursor: pointer;
-  }
-  
-  .tasks input {
+}
+
+.tasks input {
     display: none;
-  }
-  
-  .tasks input + label:before {
+}
+
+.tasks input+label:before {
     content: "⬜️";
     margin-right: 10px;
-  }
-  
-  .tasks input:checked + label:before {
+}
+
+.tasks input:checked+label:before {
     content: "🌮";
-  }
-  
-  .add-items {
+}
+
+.add-items {
     margin-top: 20px;
-  }
-  
-  .add-items input {
+    display: flex;
+}
+
+.add-items input {
     padding: 10px;
     outline: 0;
     border: 1px solid rgba(0, 0, 0, 0.1);
-  }
-  
+}
+
+.clean {
+    font-size: 25px;
+}
