@@ -17,3 +17,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Api Rick And Morty (Bootstrap) - https://gramajooo.github.io/JavaScript-30Days/Api-RickAndMorty/src/index.html
 * Slides images in on Scroll - https://gramajooo.github.io/JavaScript-30Days/Scrolls/index.html
 * Add Task / Local Storage - https://gramajooo.github.io/JavaScript-30Days/LocalStorage/index.html
+* Move Shadows - https://gramajooo.github.io/JavaScript-30Days/MoveShadows/index.html
