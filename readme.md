@@ -18,3 +18,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Slides images in on Scroll - https://gramajooo.github.io/JavaScript-30Days/Scrolls/index.html
 * Add Task / Local Storage - https://gramajooo.github.io/JavaScript-30Days/LocalStorage/index.html
 * Move Shadows - https://gramajooo.github.io/JavaScript-30Days/MoveShadows/index.html
+* Native Speech Recognition - https://gramajooo.github.io/JavaScript-30Days/Native-Speech-Recognition/index.html
