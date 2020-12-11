@@ -20,3 +20,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Move Shadows - https://gramajooo.github.io/JavaScript-30Days/MoveShadows/index.html
 * Native Speech Recognition - https://gramajooo.github.io/JavaScript-30Days/Native-Speech-Recognition/index.html
 * Filters Webcam - https://gramajooo.github.io/JavaScript-30Days/FiltersWebcam/index.html
+* Geolocation - https://gramajooo.github.io/JavaScript-30Days/Geolocation/index.html
