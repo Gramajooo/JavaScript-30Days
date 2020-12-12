@@ -21,3 +21,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Native Speech Recognition - https://gramajooo.github.io/JavaScript-30Days/Native-Speech-Recognition/index.html
 * Filters Webcam - https://gramajooo.github.io/JavaScript-30Days/FiltersWebcam/index.html
 * Geolocation - https://gramajooo.github.io/JavaScript-30Days/Geolocation/index.html
+* Follow Nav - https://gramajooo.github.io/JavaScript-30Days/FollowNav/index.html
