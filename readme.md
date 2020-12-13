@@ -22,3 +22,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Filters Webcam - https://gramajooo.github.io/JavaScript-30Days/FiltersWebcam/index.html
 * Geolocation - https://gramajooo.github.io/JavaScript-30Days/Geolocation/index.html
 * Follow Nav - https://gramajooo.github.io/JavaScript-30Days/FollowNav/index.html
+* Speech Synthesis - https://gramajooo.github.io/JavaScript-30Days/SpeechSynthesis/index.html
