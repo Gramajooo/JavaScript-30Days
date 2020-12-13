@@ -23,3 +23,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Geolocation - https://gramajooo.github.io/JavaScript-30Days/Geolocation/index.html
 * Follow Nav - https://gramajooo.github.io/JavaScript-30Days/FollowNav/index.html
 * Speech Synthesis - https://gramajooo.github.io/JavaScript-30Days/SpeechSynthesis/index.html
+* Sticky Nav - https://gramajooo.github.io/JavaScript-30Days/StickyNav/index.html
