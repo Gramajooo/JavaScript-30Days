@@ -25,3 +25,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Speech Synthesis - https://gramajooo.github.io/JavaScript-30Days/SpeechSynthesis/index.html
 * Sticky Nav - https://gramajooo.github.io/JavaScript-30Days/StickyNav/index.html
 * Js Capture - https://gramajooo.github.io/JavaScript-30Days/JsCapture/index.html
+* Stripe Nav - https://gramajooo.github.io/JavaScript-30Days/StripeNav/index.html
