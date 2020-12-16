@@ -26,3 +26,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Sticky Nav - https://gramajooo.github.io/JavaScript-30Days/StickyNav/index.html
 * Js Capture - https://gramajooo.github.io/JavaScript-30Days/JsCapture/index.html
 * Stripe Nav - https://gramajooo.github.io/JavaScript-30Days/StripeNav/index.html
+* Click And Drag - https://gramajooo.github.io/JavaScript-30Days/ClickAndDrag/index.html
