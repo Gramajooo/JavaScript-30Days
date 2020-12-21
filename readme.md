@@ -30,3 +30,4 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Video Speed - https://gramajooo.github.io/JavaScript-30Days/VideoSpeed/index.html
 * Countdown Clock - https://gramajooo.github.io/JavaScript-30Days/CountdownClock/index.html
 * Whack A Mole - https://gramajooo.github.io/JavaScript-30Days/WhackAMole/index.html
+* Shopping Cart - https://gramajooo.github.io/JavaScript-30Days/ShoppingCart/index.html
