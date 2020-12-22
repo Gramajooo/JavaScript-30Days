@@ -1,0 +1,67 @@
+body,
+html {
+    height: calc(100% - 9px);
+    background: #000;
+}
+
+.swal-overlay {
+    background-color: rgba(122, 10, 187, 0.45);
+  }
+
+#ball {
+    width: 20px;
+    height: 20px;
+    background: #000;
+    position: absolute;
+    left: 10px;
+    top: 0px;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+
+.bar {
+    width: 20px;
+    height: 100px;
+    background: #000;
+    border: 2px solid #fff;
+}
+
+#bar1 {
+    top: 20px;
+    float: left;
+    position: absolute;
+}
+
+#bar2 {
+    top: 20px;
+    right: 0px;
+    position: absolute;
+}
+
+#line {
+    width: 50%;
+    border-right: #fff dashed 5px;
+    height: 100%;
+}
+
+
+.title {
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    background: #000;
+    border: 2px solid #fff;
+}
+
+.player1 {
+    left: 25%;
+    float: left;
+    position: absolute;
+}
+
+.player2 {
+    right: 25%;
+    position: absolute;
+}
