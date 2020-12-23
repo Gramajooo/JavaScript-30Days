@@ -1,0 +1,117 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 60vh;
+}
+
+
+.navbar {
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* --------------------------------------------------------------- */
+
+.center-container {
+    display: flex;
+    align-items: center;
+    width: 800px;
+}
+
+.yellow-rectangle {
+    min-width: 8px;
+    min-height: 300px;
+    background: #f7df94;
+    margin-right: 60px;
+}
+
+.random-quote {
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 120%;
+}
+
+.author {
+    padding: 20px 0px 20px 50px;
+    margin-top: 60px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 800px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .center-container {
+        max-width: 320px;
+    }
+
+    .author {
+        min-width: 280px;
+    }
+
+    .yellow-rectangle {
+        margin-right: 40px;
+    }
+
+    .random-quote {
+        font-size: 24px;
+    }
+}
+
+/* -------------------------------------------------------------------- */
+
+
+.quotes-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 100px;
+}
+
+.quotes-container h1 {
+    margin-bottom: 60px;
+}
+
+.quote-container {
+    display: flex;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    width: 800px;
+    font-size: 34px;
+    align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .quotes-container {
+        min-width: 280px;
+    }
+
+    .quote-container {
+        width: 300px;
+        margin-bottom: 30px;
+        margin-left: 0px;
+        font-size: 24px;
+    }
+}
+
+/* ---------------------------------------------------------------------------- */
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    line-height: 17px;
+    color: #a9a9a9;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
