@@ -31,3 +31,5 @@ https://gramajooo.github.io/JavaScript-30Days/
 * Countdown Clock - https://gramajooo.github.io/JavaScript-30Days/CountdownClock/index.html
 * Whack A Mole - https://gramajooo.github.io/JavaScript-30Days/WhackAMole/index.html
 * Shopping Cart - https://gramajooo.github.io/JavaScript-30Days/ShoppingCart/index.html
+* Ping Pong - https://gramajooo.github.io/JavaScript-30Days/PingPong/index.html
+* Quote Generator - https://gramajooo.github.io/JavaScript-30Days/QuoteGenerator/index.html
